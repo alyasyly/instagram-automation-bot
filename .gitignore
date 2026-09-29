@@ -1,3 +1,5 @@
 chrome_profile/
 .venv/
 .env
+exemple.html
+main1.py
